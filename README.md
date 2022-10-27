@@ -1,2 +1,2 @@
-# in_class_assignment_6
-In Class Assignment 6 - INFO 450
+# INFO 450 - In Class Assignment 6
+
