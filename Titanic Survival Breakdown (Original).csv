@@ -1,0 +1,419 @@
+Passenger ID,Passenger Class,Ticket Class,Name,Sex,Age,Survived
+892,3,Third Class,"Kelly, Mr. James",male,34.5,0
+893,3,Third Class,"Wilkes, Mrs. James (Ellen Needs)",female,47,1
+894,2,Second Class,"Myles, Mr. Thomas Francis",male,62,0
+895,3,Third Class,"Wirz, Mr. Albert",male,27,0
+896,3,Third Class,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,22,1
+897,3,Third Class,"Svensson, Mr. Johan Cervin",male,14,1
+898,3,Third Class,"Connolly, Miss. Kate",female,30,0
+899,2,Second Class,"Caldwell, Mr. Albert Francis",male,26,1
+900,3,Third Class,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,18,1
+901,3,Third Class,"Davies, Mr. John Samuel",male,21,0
+902,3,Third Class,"Ilieff, Mr. Ylio",male,,0
+903,1,First Class,"Jones, Mr. Charles Cresson",male,46,0
+904,1,First Class,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,23,1
+905,2,Second Class,"Howard, Mr. Benjamin",male,63,0
+906,1,First Class,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,47,1
+907,2,Second Class,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,24,1
+908,2,Second Class,"Keane, Mr. Daniel",male,35,0
+909,3,Third Class,"Assaf, Mr. Gerios",male,21,0
+910,3,Third Class,"Ilmakangas, Miss. Ida Livija",female,27,0
+911,3,Third Class,"Assaf Khalil, Mrs. Mariana (Miriam"")""",female,45,1
+912,1,First Class,"Rothschild, Mr. Martin",male,55,0
+913,3,Third Class,"Olsen, Master. Artur Karl",male,9,1
+914,1,First Class,"Flegenheim, Mrs. Alfred (Antoinette)",female,,1
+915,1,First Class,"Williams, Mr. Richard Norris II",male,21,1
+916,1,First Class,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,48,1
+917,3,Third Class,"Robins, Mr. Alexander A",male,50,0
+918,1,First Class,"Ostby, Miss. Helene Ragnhild",female,22,1
+919,3,Third Class,"Daher, Mr. Shedid",male,22.5,0
+920,1,First Class,"Brady, Mr. John Bertram",male,41,0
+921,3,Third Class,"Samaan, Mr. Elias",male,,0
+922,2,Second Class,"Louch, Mr. Charles Alexander",male,50,0
+923,2,Second Class,"Jefferys, Mr. Clifford Thomas",male,24,0
+924,3,Third Class,"Dean, Mrs. Bertram (Eva Georgetta Light)",female,33,1
+925,3,Third Class,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",female,,0
+926,1,First Class,"Mock, Mr. Philipp Edmund",male,30,1
+927,3,Third Class,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",male,18.5,0
+928,3,Third Class,"Roth, Miss. Sarah A",female,,1
+929,3,Third Class,"Cacic, Miss. Manda",female,21,0
+930,3,Third Class,"Sap, Mr. Julius",male,25,1
+931,3,Third Class,"Hee, Mr. Ling",male,,1
+932,3,Third Class,"Karun, Mr. Franz",male,39,1
+933,1,First Class,"Franklin, Mr. Thomas Parham",male,,0
+934,3,Third Class,"Goldsmith, Mr. Nathan",male,41,0
+935,2,Second Class,"Corbett, Mrs. Walter H (Irene Colvin)",female,30,0
+936,1,First Class,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,45,1
+937,3,Third Class,"Peltomaki, Mr. Nikolai Johannes",male,25,0
+938,1,First Class,"Chevre, Mr. Paul Romaine",male,45,1
+939,3,Third Class,"Shaughnessy, Mr. Patrick",male,,0
+940,1,First Class,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,60,1
+941,3,Third Class,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",female,36,1
+942,1,First Class,"Smith, Mr. Lucien Philip",male,24,0
+943,2,Second Class,"Pulbaum, Mr. Franz",male,27,0
+944,2,Second Class,"Hocking, Miss. Ellen Nellie""""",female,20,1
+945,1,First Class,"Fortune, Miss. Ethel Flora",female,28,1
+946,2,Second Class,"Mangiavacchi, Mr. Serafino Emilio",male,,0
+947,3,Third Class,"Rice, Master. Albert",male,10,0
+948,3,Third Class,"Cor, Mr. Bartol",male,35,0
+949,3,Third Class,"Abelseth, Mr. Olaus Jorgensen",male,25,1
+950,3,Third Class,"Davison, Mr. Thomas Henry",male,,0
+951,1,First Class,"Chaudanson, Miss. Victorine",female,36,1
+952,3,Third Class,"Dika, Mr. Mirko",male,17,0
+953,2,Second Class,"McCrae, Mr. Arthur Gordon",male,32,0
+954,3,Third Class,"Bjorklund, Mr. Ernst Herbert",male,18,0
+955,3,Third Class,"Bradley, Miss. Bridget Delia",female,22,1
+956,1,First Class,"Ryerson, Master. John Borie",male,13,1
+957,2,Second Class,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female,,0
+958,3,Third Class,"Burns, Miss. Mary Delia",female,18,0
+959,1,First Class,"Moore, Mr. Clarence Bloomfield",male,47,0
+960,1,First Class,"Tucker, Mr. Gilbert Milligan Jr",male,31,1
+961,1,First Class,"Fortune, Mrs. Mark (Mary McDougald)",female,60,1
+962,3,Third Class,"Mulvihill, Miss. Bertha E",female,24,1
+963,3,Third Class,"Minkoff, Mr. Lazar",male,21,0
+964,3,Third Class,"Nieminen, Miss. Manta Josefina",female,29,0
+965,1,First Class,"Ovies y Rodriguez, Mr. Servando",male,28.5,0
+966,1,First Class,"Geiger, Miss. Amalie",female,35,1
+967,1,First Class,"Keeping, Mr. Edwin",male,32.5,0
+968,3,Third Class,"Miles, Mr. Frank",male,,0
+969,1,First Class,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female,55,1
+970,2,Second Class,"Aldworth, Mr. Charles Augustus",male,30,0
+971,3,Third Class,"Doyle, Miss. Elizabeth",female,24,0
+972,3,Third Class,"Boulos, Master. Akar",male,6,0
+973,1,First Class,"Straus, Mr. Isidor",male,67,0
+974,1,First Class,"Case, Mr. Howard Brown",male,49,0
+975,3,Third Class,"Demetri, Mr. Marinko",male,,0
+976,2,Second Class,"Lamb, Mr. John Joseph",male,,0
+977,3,Third Class,"Khalil, Mr. Betros",male,,0
+978,3,Third Class,"Barry, Miss. Julia",female,27,0
+979,3,Third Class,"Badman, Miss. Emily Louisa",female,18,1
+980,3,Third Class,"O'Donoghue, Ms. Bridget",female,,0
+981,2,Second Class,"Wells, Master. Ralph Lester",male,2,1
+982,3,Third Class,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,22,1
+983,3,Third Class,"Pedersen, Mr. Olaf",male,,0
+984,1,First Class,"Davidson, Mrs. Thornton (Orian Hays)",female,27,1
+985,3,Third Class,"Guest, Mr. Robert",male,,0
+986,1,First Class,"Birnbaum, Mr. Jakob",male,25,0
+987,3,Third Class,"Tenglin, Mr. Gunnar Isidor",male,25,1
+988,1,First Class,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,76,1
+989,3,Third Class,"Makinen, Mr. Kalle Edvard",male,29,0
+990,3,Third Class,"Braf, Miss. Elin Ester Maria",female,20,0
+991,3,Third Class,"Nancarrow, Mr. William Henry",male,33,0
+992,1,First Class,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,43,1
+993,2,Second Class,"Weisz, Mr. Leopold",male,27,0
+994,3,Third Class,"Foley, Mr. William",male,,0
+995,3,Third Class,"Johansson Palmquist, Mr. Oskar Leander",male,26,1
+996,3,Third Class,"Thomas, Mrs. Alexander (Thamine Thelma"")""",female,16,1
+997,3,Third Class,"Holthen, Mr. Johan Martin",male,28,0
+998,3,Third Class,"Buckley, Mr. Daniel",male,21,1
+999,3,Third Class,"Ryan, Mr. Edward",male,,1
+1000,3,Third Class,"Willer, Mr. Aaron (Abi Weller"")""",male,,0
+1001,2,Second Class,"Swane, Mr. George",male,18.5,0
+1002,2,Second Class,"Stanton, Mr. Samuel Ward",male,41,0
+1003,3,Third Class,"Shine, Miss. Ellen Natalia",female,,1
+1004,1,First Class,"Evans, Miss. Edith Corse",female,36,0
+1005,3,Third Class,"Buckley, Miss. Katherine",female,18.5,0
+1006,1,First Class,"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,63,0
+1007,3,Third Class,"Chronopoulos, Mr. Demetrios",male,18,0
+1008,3,Third Class,"Thomas, Mr. John",male,,0
+1009,3,Third Class,"Sandstrom, Miss. Beatrice Irene",female,1,1
+1010,1,First Class,"Beattie, Mr. Thomson",male,36,0
+1011,2,Second Class,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female,29,0
+1012,2,Second Class,"Watt, Miss. Bertha J",female,12,1
+1013,3,Third Class,"Kiernan, Mr. John",male,,0
+1014,1,First Class,"Schabert, Mrs. Paul (Emma Mock)",female,35,1
+1015,3,Third Class,"Carver, Mr. Alfred John",male,28,0
+1016,3,Third Class,"Kennedy, Mr. John",male,,1
+1017,3,Third Class,"Cribb, Miss. Laura Alice",female,17,1
+1018,3,Third Class,"Brobeck, Mr. Karl Rudolf",male,22,0
+1019,3,Third Class,"McCoy, Miss. Alicia",female,,1
+1020,2,Second Class,"Bowenur, Mr. Solomon",male,42,0
+1021,3,Third Class,"Petersen, Mr. Marius",male,24,0
+1022,3,Third Class,"Spinner, Mr. Henry John",male,32,0
+1023,1,First Class,"Gracie, Col. Archibald IV",male,53,1
+1024,3,Third Class,"Lefebre, Mrs. Frank (Frances)",female,,0
+1025,3,Third Class,"Thomas, Mr. Charles P",male,,0
+1026,3,Third Class,"Dintcheff, Mr. Valtcho",male,43,0
+1027,3,Third Class,"Carlsson, Mr. Carl Robert",male,24,0
+1028,3,Third Class,"Zakarian, Mr. Mapriededer",male,26.5,0
+1029,2,Second Class,"Schmidt, Mr. August",male,26,0
+1030,3,Third Class,"Drapkin, Miss. Jennie",female,23,1
+1031,3,Third Class,"Goodwin, Mr. Charles Frederick",male,40,0
+1032,3,Third Class,"Goodwin, Miss. Jessie Allis",female,10,0
+1033,1,First Class,"Daniels, Miss. Sarah",female,33,1
+1034,1,First Class,"Ryerson, Mr. Arthur Larned",male,61,0
+1035,2,Second Class,"Beauchamp, Mr. Henry James",male,28,0
+1036,1,First Class,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",male,42,0
+1037,3,Third Class,"Vander Planke, Mr. Julius",male,31,0
+1038,1,First Class,"Hilliard, Mr. Herbert Henry",male,,0
+1039,3,Third Class,"Davies, Mr. Evan",male,22,0
+1040,1,First Class,"Crafton, Mr. John Bertram",male,,0
+1041,2,Second Class,"Lahtinen, Rev. William",male,30,0
+1042,1,First Class,"Earnshaw, Mrs. Boulton (Olive Potter)",female,23,1
+1043,3,Third Class,"Matinoff, Mr. Nicola",male,,0
+1044,3,Third Class,"Storey, Mr. Thomas",male,60.5,0
+1045,3,Third Class,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female,36,0
+1046,3,Third Class,"Asplund, Master. Filip Oscar",male,13,0
+1047,3,Third Class,"Duquemin, Mr. Joseph",male,24,1
+1048,1,First Class,"Bird, Miss. Ellen",female,29,1
+1049,3,Third Class,"Lundin, Miss. Olga Elida",female,23,1
+1050,1,First Class,"Borebank, Mr. John James",male,42,0
+1051,3,Third Class,"Peacock, Mrs. Benjamin (Edith Nile)",female,26,0
+1052,3,Third Class,"Smyth, Miss. Julia",female,,1
+1053,3,Third Class,"Touma, Master. Georges Youssef",male,7,1
+1054,2,Second Class,"Wright, Miss. Marion",female,26,1
+1055,3,Third Class,"Pearce, Mr. Ernest",male,,0
+1056,2,Second Class,"Peruschitz, Rev. Joseph Maria",male,41,0
+1057,3,Third Class,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,26,1
+1058,1,First Class,"Brandeis, Mr. Emil",male,48,0
+1059,3,Third Class,"Ford, Mr. Edward Watson",male,18,0
+1060,1,First Class,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,,1
+1061,3,Third Class,"Hellstrom, Miss. Hilda Maria",female,22,1
+1062,3,Third Class,"Lithman, Mr. Simon",male,,0
+1063,3,Third Class,"Zakarian, Mr. Ortin",male,27,0
+1064,3,Third Class,"Dyker, Mr. Adolf Fredrik",male,23,0
+1065,3,Third Class,"Torfa, Mr. Assad",male,,0
+1066,3,Third Class,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male,40,0
+1067,2,Second Class,"Brown, Miss. Edith Eileen",female,15,1
+1068,2,Second Class,"Sincock, Miss. Maude",female,20,1
+1069,1,First Class,"Stengel, Mr. Charles Emil Henry",male,54,1
+1070,2,Second Class,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female,36,1
+1071,1,First Class,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",female,64,1
+1072,2,Second Class,"McCrie, Mr. James Matthew",male,30,0
+1073,1,First Class,"Compton, Mr. Alexander Taylor Jr",male,37,0
+1074,1,First Class,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,18,1
+1075,3,Third Class,"Lane, Mr. Patrick",male,,0
+1076,1,First Class,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,27,1
+1077,2,Second Class,"Maybery, Mr. Frank Hubert",male,40,0
+1078,2,Second Class,"Phillips, Miss. Alice Frances Louisa",female,21,1
+1079,3,Third Class,"Davies, Mr. Joseph",male,17,0
+1080,3,Third Class,"Sage, Miss. Ada",female,,0
+1081,2,Second Class,"Veal, Mr. James",male,40,0
+1082,2,Second Class,"Angle, Mr. William A",male,34,0
+1083,1,First Class,"Salomon, Mr. Abraham L",male,,1
+1084,3,Third Class,"van Billiard, Master. Walter John",male,11.5,0
+1085,2,Second Class,"Lingane, Mr. John",male,61,0
+1086,2,Second Class,"Drew, Master. Marshall Brines",male,8,1
+1087,3,Third Class,"Karlsson, Mr. Julius Konrad Eugen",male,33,0
+1088,1,First Class,"Spedden, Master. Robert Douglas",male,6,1
+1089,3,Third Class,"Nilsson, Miss. Berta Olivia",female,18,1
+1090,2,Second Class,"Baimbrigge, Mr. Charles Robert",male,23,0
+1091,3,Third Class,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,,0
+1092,3,Third Class,"Murphy, Miss. Nora",female,,1
+1093,3,Third Class,"Danbom, Master. Gilbert Sigvard Emanuel",male,0.33,0
+1094,1,First Class,"Astor, Col. John Jacob",male,47,0
+1095,2,Second Class,"Quick, Miss. Winifred Vera",female,8,1
+1096,2,Second Class,"Andrew, Mr. Frank Thomas",male,25,0
+1097,1,First Class,"Omont, Mr. Alfred Fernand",male,,1
+1098,3,Third Class,"McGowan, Miss. Katherine",female,35,0
+1099,2,Second Class,"Collett, Mr. Sidney C Stuart",male,24,1
+1100,1,First Class,"Rosenbaum, Miss. Edith Louise",female,33,1
+1101,3,Third Class,"Delalic, Mr. Redjo",male,25,0
+1102,3,Third Class,"Andersen, Mr. Albert Karvin",male,32,0
+1103,3,Third Class,"Finoli, Mr. Luigi",male,,1
+1104,2,Second Class,"Deacon, Mr. Percy William",male,17,0
+1105,2,Second Class,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,60,0
+1106,3,Third Class,"Andersson, Miss. Ida Augusta Margareta",female,38,0
+1107,1,First Class,"Head, Mr. Christopher",male,42,0
+1108,3,Third Class,"Mahon, Miss. Bridget Delia",female,,0
+1109,1,First Class,"Wick, Mr. George Dennick",male,57,0
+1110,1,First Class,"Widener, Mrs. George Dunton (Eleanor Elkins)",female,50,1
+1111,3,Third Class,"Thomson, Mr. Alexander Morrison",male,,0
+1112,2,Second Class,"Duran y More, Miss. Florentina",female,30,1
+1113,3,Third Class,"Reynolds, Mr. Harold J",male,21,0
+1114,2,Second Class,"Cook, Mrs. (Selena Rogers)",female,22,1
+1115,3,Third Class,"Karlsson, Mr. Einar Gervasius",male,21,1
+1116,1,First Class,"Candee, Mrs. Edward (Helen Churchill Hungerford)",female,53,1
+1117,3,Third Class,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",female,,1
+1118,3,Third Class,"Asplund, Mr. Johan Charles",male,23,1
+1119,3,Third Class,"McNeill, Miss. Bridget",female,,0
+1120,3,Third Class,"Everett, Mr. Thomas James",male,40.5,0
+1121,2,Second Class,"Hocking, Mr. Samuel James Metcalfe",male,36,0
+1122,2,Second Class,"Sweet, Mr. George Frederick",male,14,0
+1123,1,First Class,"Willard, Miss. Constance",female,21,1
+1124,3,Third Class,"Wiklund, Mr. Karl Johan",male,21,0
+1125,3,Third Class,"Linehan, Mr. Michael",male,,0
+1126,1,First Class,"Cumings, Mr. John Bradley",male,39,0
+1127,3,Third Class,"Vendel, Mr. Olof Edvin",male,20,0
+1128,1,First Class,"Warren, Mr. Frank Manley",male,64,0
+1129,3,Third Class,"Baccos, Mr. Raffull",male,20,0
+1130,2,Second Class,"Hiltunen, Miss. Marta",female,18,0
+1131,1,First Class,"Douglas, Mrs. Walter Donald (Mahala Dutton)",female,48,1
+1132,1,First Class,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female,55,1
+1133,2,Second Class,"Christy, Mrs. (Alice Frances)",female,45,1
+1134,1,First Class,"Spedden, Mr. Frederic Oakley",male,45,1
+1135,3,Third Class,"Hyman, Mr. Abraham",male,,1
+1136,3,Third Class,"Johnston, Master. William Arthur Willie""""",male,,0
+1137,1,First Class,"Kenyon, Mr. Frederick R",male,41,1
+1138,2,Second Class,"Karnes, Mrs. J Frank (Claire Bennett)",female,22,0
+1139,2,Second Class,"Drew, Mr. James Vivian",male,42,0
+1140,2,Second Class,"Hold, Mrs. Stephen (Annie Margaret Hill)",female,29,1
+1141,3,Third Class,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",female,,0
+1142,2,Second Class,"West, Miss. Barbara J",female,0.92,1
+1143,3,Third Class,"Abrahamsson, Mr. Abraham August Johannes",male,20,1
+1144,1,First Class,"Clark, Mr. Walter Miller",male,27,0
+1145,3,Third Class,"Salander, Mr. Karl Johan",male,24,0
+1146,3,Third Class,"Wenzel, Mr. Linhart",male,32.5,0
+1147,3,Third Class,"MacKay, Mr. George William",male,,0
+1148,3,Third Class,"Mahon, Mr. John",male,,0
+1149,3,Third Class,"Niklasson, Mr. Samuel",male,28,0
+1150,2,Second Class,"Bentham, Miss. Lilian W",female,19,1
+1151,3,Third Class,"Midtsjo, Mr. Karl Albert",male,21,1
+1152,3,Third Class,"de Messemaeker, Mr. Guillaume Joseph",male,36.5,1
+1153,3,Third Class,"Nilsson, Mr. August Ferdinand",male,21,0
+1154,2,Second Class,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",female,29,1
+1155,3,Third Class,"Klasen, Miss. Gertrud Emilia",female,1,0
+1156,2,Second Class,"Portaluppi, Mr. Emilio Ilario Giuseppe",male,30,1
+1157,3,Third Class,"Lyntakoff, Mr. Stanko",male,,0
+1158,1,First Class,"Chisholm, Mr. Roderick Robert Crispin",male,,0
+1159,3,Third Class,"Warren, Mr. Charles William",male,,0
+1160,3,Third Class,"Howard, Miss. May Elizabeth",female,,1
+1161,3,Third Class,"Pokrnic, Mr. Mate",male,17,0
+1162,1,First Class,"McCaffry, Mr. Thomas Francis",male,46,0
+1163,3,Third Class,"Fox, Mr. Patrick",male,,0
+1164,1,First Class,"Clark, Mrs. Walter Miller (Virginia McDowell)",female,26,1
+1165,3,Third Class,"Lennon, Miss. Mary",female,,0
+1166,3,Third Class,"Saade, Mr. Jean Nassr",male,,0
+1167,2,Second Class,"Bryhl, Miss. Dagmar Jenny Ingeborg ",female,20,1
+1168,2,Second Class,"Parker, Mr. Clifford Richard",male,28,0
+1169,2,Second Class,"Faunthorpe, Mr. Harry",male,40,0
+1170,2,Second Class,"Ware, Mr. John James",male,30,0
+1171,2,Second Class,"Oxenham, Mr. Percy Thomas",male,22,1
+1172,3,Third Class,"Oreskovic, Miss. Jelka",female,23,0
+1173,3,Third Class,"Peacock, Master. Alfred Edward",male,0.75,0
+1174,3,Third Class,"Fleming, Miss. Honora",female,,0
+1175,3,Third Class,"Touma, Miss. Maria Youssef",female,9,1
+1176,3,Third Class,"Rosblom, Miss. Salli Helena",female,2,0
+1177,3,Third Class,"Dennis, Mr. William",male,36,0
+1178,3,Third Class,"Franklin, Mr. Charles (Charles Fardon)",male,,0
+1179,1,First Class,"Snyder, Mr. John Pillsbury",male,24,1
+1180,3,Third Class,"Mardirosian, Mr. Sarkis",male,,0
+1181,3,Third Class,"Ford, Mr. Arthur",male,,0
+1182,1,First Class,"Rheims, Mr. George Alexander Lucien",male,,1
+1183,3,Third Class,"Daly, Miss. Margaret Marcella Maggie""""",female,30,1
+1184,3,Third Class,"Nasr, Mr. Mustafa",male,,0
+1185,1,First Class,"Dodge, Dr. Washington",male,53,1
+1186,3,Third Class,"Wittevrongel, Mr. Camille",male,36,0
+1187,3,Third Class,"Angheloff, Mr. Minko",male,26,0
+1188,2,Second Class,"Laroche, Miss. Louise",female,1,1
+1189,3,Third Class,"Samaan, Mr. Hanna",male,,0
+1190,1,First Class,"Loring, Mr. Joseph Holland",male,30,0
+1191,3,Third Class,"Johansson, Mr. Nils",male,29,0
+1192,3,Third Class,"Olsson, Mr. Oscar Wilhelm",male,32,1
+1193,2,Second Class,"Malachard, Mr. Noel",male,,0
+1194,2,Second Class,"Phillips, Mr. Escott Robert",male,43,0
+1195,3,Third Class,"Pokrnic, Mr. Tome",male,24,0
+1196,3,Third Class,"McCarthy, Miss. Catherine Katie""""",female,,1
+1197,1,First Class,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,64,1
+1198,1,First Class,"Allison, Mr. Hudson Joshua Creighton",male,30,0
+1199,3,Third Class,"Aks, Master. Philip Frank",male,0.83,1
+1200,1,First Class,"Hays, Mr. Charles Melville",male,55,0
+1201,3,Third Class,"Hansen, Mrs. Claus Peter (Jennie L Howard)",female,45,1
+1202,3,Third Class,"Cacic, Mr. Jego Grga",male,18,0
+1203,3,Third Class,"Vartanian, Mr. David",male,22,1
+1204,3,Third Class,"Sadowitz, Mr. Harry",male,,0
+1205,3,Third Class,"Carr, Miss. Jeannie",female,37,0
+1206,1,First Class,"White, Mrs. John Stuart (Ella Holmes)",female,55,1
+1207,3,Third Class,"Hagardon, Miss. Kate",female,17,0
+1208,1,First Class,"Spencer, Mr. William Augustus",male,57,0
+1209,2,Second Class,"Rogers, Mr. Reginald Harry",male,19,0
+1210,3,Third Class,"Jonsson, Mr. Nils Hilding",male,27,0
+1211,2,Second Class,"Jefferys, Mr. Ernest Wilfred",male,22,0
+1212,3,Third Class,"Andersson, Mr. Johan Samuel",male,26,0
+1213,3,Third Class,"Krekorian, Mr. Neshan",male,25,1
+1214,2,Second Class,"Nesson, Mr. Israel",male,26,0
+1215,1,First Class,"Rowe, Mr. Alfred G",male,33,0
+1216,1,First Class,"Kreuchen, Miss. Emilie",female,39,1
+1217,3,Third Class,"Assam, Mr. Ali",male,23,0
+1218,2,Second Class,"Becker, Miss. Ruth Elizabeth",female,12,1
+1219,1,First Class,"Rosenshine, Mr. George (Mr George Thorne"")""",male,46,0
+1220,2,Second Class,"Clarke, Mr. Charles Valentine",male,29,0
+1221,2,Second Class,"Enander, Mr. Ingvar",male,21,0
+1222,2,Second Class,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",female,48,1
+1223,1,First Class,"Dulles, Mr. William Crothers",male,39,0
+1224,3,Third Class,"Thomas, Mr. Tannous",male,,0
+1225,3,Third Class,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",female,19,1
+1226,3,Third Class,"Cor, Mr. Ivan",male,27,0
+1227,1,First Class,"Maguire, Mr. John Edward",male,30,0
+1228,2,Second Class,"de Brito, Mr. Jose Joaquim",male,32,0
+1229,3,Third Class,"Elias, Mr. Joseph",male,39,0
+1230,2,Second Class,"Denbury, Mr. Herbert",male,25,0
+1231,3,Third Class,"Betros, Master. Seman",male,,0
+1232,2,Second Class,"Fillbrook, Mr. Joseph Charles",male,18,0
+1233,3,Third Class,"Lundstrom, Mr. Thure Edvin",male,32,1
+1234,3,Third Class,"Sage, Mr. John George",male,,0
+1235,1,First Class,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,58,1
+1236,3,Third Class,"van Billiard, Master. James William",male,,0
+1237,3,Third Class,"Abelseth, Miss. Karen Marie",female,16,1
+1238,2,Second Class,"Botsford, Mr. William Hull",male,26,0
+1239,3,Third Class,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female,38,1
+1240,2,Second Class,"Giles, Mr. Ralph",male,24,0
+1241,2,Second Class,"Walcroft, Miss. Nellie",female,31,1
+1242,1,First Class,"Greenfield, Mrs. Leo David (Blanche Strouse)",female,45,1
+1243,2,Second Class,"Stokes, Mr. Philip Joseph",male,25,0
+1244,2,Second Class,"Dibden, Mr. William",male,18,0
+1245,2,Second Class,"Herman, Mr. Samuel",male,49,0
+1246,3,Third Class,"Dean, Miss. Elizabeth Gladys Millvina""""",female,0.17,1
+1247,1,First Class,"Julian, Mr. Henry Forbes",male,50,0
+1248,1,First Class,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,59,1
+1249,3,Third Class,"Lockyer, Mr. Edward",male,,0
+1250,3,Third Class,"O'Keefe, Mr. Patrick",male,,1
+1251,3,Third Class,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,30,0
+1252,3,Third Class,"Sage, Master. William Henry",male,14.5,0
+1253,2,Second Class,"Mallet, Mrs. Albert (Antoinette Magnin)",female,24,1
+1254,2,Second Class,"Ware, Mrs. John James (Florence Louise Long)",female,31,1
+1255,3,Third Class,"Strilic, Mr. Ivan",male,27,0
+1256,1,First Class,"Harder, Mrs. George Achilles (Dorothy Annan)",female,25,1
+1257,3,Third Class,"Sage, Mrs. John (Annie Bullen)",female,,0
+1258,3,Third Class,"Caram, Mr. Joseph",male,,0
+1259,3,Third Class,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",female,22,0
+1260,1,First Class,"Gibson, Mrs. Leonard (Pauline C Boeson)",female,45,1
+1261,2,Second Class,"Pallas y Castello, Mr. Emilio",male,29,1
+1262,2,Second Class,"Giles, Mr. Edgar",male,21,0
+1263,1,First Class,"Wilson, Miss. Helen Alice",female,31,1
+1264,1,First Class,"Ismay, Mr. Joseph Bruce",male,49,1
+1265,2,Second Class,"Harbeck, Mr. William H",male,44,0
+1266,1,First Class,"Dodge, Mrs. Washington (Ruth Vidaver)",female,54,1
+1267,1,First Class,"Bowen, Miss. Grace Scott",female,45,1
+1268,3,Third Class,"Kink, Miss. Maria",female,22,0
+1269,2,Second Class,"Cotterill, Mr. Henry Harry""""",male,21,0
+1270,1,First Class,"Hipkins, Mr. William Edward",male,55,0
+1271,3,Third Class,"Asplund, Master. Carl Edgar",male,5,0
+1272,3,Third Class,"O'Connor, Mr. Patrick",male,,0
+1273,3,Third Class,"Foley, Mr. Joseph",male,26,0
+1274,3,Third Class,"Risien, Mrs. Samuel (Emma)",female,,0
+1275,3,Third Class,"McNamee, Mrs. Neal (Eileen O'Leary)",female,19,0
+1276,2,Second Class,"Wheeler, Mr. Edwin Frederick""""",male,,0
+1277,2,Second Class,"Herman, Miss. Kate",female,24,1
+1278,3,Third Class,"Aronsson, Mr. Ernst Axel Algot",male,24,0
+1279,2,Second Class,"Ashby, Mr. John",male,57,0
+1280,3,Third Class,"Canavan, Mr. Patrick",male,21,0
+1281,3,Third Class,"Palsson, Master. Paul Folke",male,6,0
+1282,1,First Class,"Payne, Mr. Vivian Ponsonby",male,23,0
+1283,1,First Class,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,51,1
+1284,3,Third Class,"Abbott, Master. Eugene Joseph",male,13,0
+1285,2,Second Class,"Gilbert, Mr. William",male,47,0
+1286,3,Third Class,"Kink-Heilmann, Mr. Anton",male,29,1
+1287,1,First Class,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,18,1
+1288,3,Third Class,"Colbert, Mr. Patrick",male,24,0
+1289,1,First Class,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,48,1
+1290,3,Third Class,"Larsson-Rondberg, Mr. Edvard A",male,22,0
+1291,3,Third Class,"Conlon, Mr. Thomas Henry",male,31,0
+1292,1,First Class,"Bonnell, Miss. Caroline",female,30,1
+1293,2,Second Class,"Gale, Mr. Harry",male,38,0
+1294,1,First Class,"Gibson, Miss. Dorothy Winifred",female,22,1
+1295,1,First Class,"Carrau, Mr. Jose Pedro",male,17,0
+1296,1,First Class,"Frauenthal, Mr. Isaac Gerald",male,43,1
+1297,2,Second Class,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",male,20,1
+1298,2,Second Class,"Ware, Mr. William Jeffery",male,23,0
+1299,1,First Class,"Widener, Mr. George Dunton",male,50,0
+1300,3,Third Class,"Riordan, Miss. Johanna Hannah""""",female,,1
+1301,3,Third Class,"Peacock, Miss. Treasteall",female,3,0
+1302,3,Third Class,"Naughton, Miss. Hannah",female,,0
+1303,1,First Class,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,37,1
+1304,3,Third Class,"Henriksson, Miss. Jenny Lovisa",female,28,0
+1305,3,Third Class,"Spector, Mr. Woolf",male,,0
+1306,1,First Class,"Oliva y Ocana, Dona. Fermina",female,39,1
+1307,3,Third Class,"Saether, Mr. Simon Sivertsen",male,38.5,0
+1308,3,Third Class,"Ware, Mr. Frederick",male,,0
+1309,3,Third Class,"Peter, Master. Michael J",male,,1
